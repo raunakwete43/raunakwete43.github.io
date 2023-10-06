@@ -1,0 +1,186 @@
+/* Reset some default browser styles */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set up a dark background color */
+body {
+    background-color: #121212;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Header styles */
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+img {
+    border-radius: 50%; /* Rounded profile picture */
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+#about {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.about-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border: 2px solid #0099ff;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 400px; /* Set a maximum width for the box */
+    margin: 0 auto; /* Center the box horizontally */
+}
+
+
+.photo-container {
+    margin-bottom: 20px;
+}
+
+img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+h1 {
+    font-size: 24px;
+    color: #fff;
+}
+
+p {
+    color: #ccc;
+    margin: 5px 0;
+}
+
+.name {
+    font-size: 32px;
+    color: #ff6600; /* Different color for the name */
+    margin-bottom: 10px;
+    transition: font-size 0.3s ease; /* Add a transition for font size */
+}
+
+/* Increase font size on hover */
+.name:hover {
+    font-size: 36px; 
+    color: aqua;
+}
+
+.label {
+    font-weight: bold;
+    font-size: large;
+    color: blanchedalmond; /* You can use your desired color here */
+    margin-right: 5px;
+    transition: color 0.3s ease; /* Add a smooth color transition on hover */
+}
+
+/* Styles for information (e.g., "Bachelor's Degree in Computer Science") */
+.info {
+    font-style: italic;
+    font-weight: 500;
+    font-size: medium;
+    margin-right: 5px;
+}
+
+p {
+    color: #ccc;
+    margin: 5px 0;
+}
+
+/* Styles for the "Portfolio" section */
+#portfolio {
+    background-color: #1a1a1a;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.portfolio-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    border: 2px solid #60e74e;
+    padding:   0px;
+    border-radius: 10px;
+    max-width: 400px; /* Set a maximum width for the box */
+    margin: 0 auto;
+}
+
+
+.project-title {
+    font-size: 24px;
+    color: #3de9be; 
+    margin-bottom: 10px;
+}
+
+.project-description {
+    font-size: 16px;
+    color: #ccc; /* Light gray color for the description */
+    margin-bottom: 10px;
+}
+
+.project-link {
+    color: #0099ff; /* Blue color for the link */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.project-link:hover {
+    color: #ff3300; /* Darker orange color on hover for the link */
+}
+
+
+
+/* Styles for the "Social Media Links" section */
+.social-media-links {
+    background-color: #444;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 20px;
+    max-width: 400px; 
+}
+
+.social-media-links h2 {
+    font-size: 24px;
+    color: #fff;
+}
+
+.social-media-links ul {
+    list-style: none;
+    padding: 0;
+}
+
+.social-media-links li {
+    margin-bottom: 10px;
+}
+
+.social-media-links a {
+    color: #0099ff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.social-media-links a:hover {
+    color: #ff6600;
+}
