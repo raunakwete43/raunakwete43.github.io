@@ -1,2 +1,15 @@
-/* DO NOT WRITE ANY STYLE IN THIS FILE */
-/* If you want to add your own styles, please write it in the `./assets/css/custom.css` file. */
+/* Add your own custom styles here */
+body {
+    font-family: 'Fira Code', monospace;
+    font-variant-ligatures: common-ligatures;
+    font-feature-settings: "liga", "calt";
+}
+
+
+
+/* Dark mode */
+
+.dark .MathJax {
+    color: rgb(216, 208, 208);
+    /* Force white color in dark mode */
+}
