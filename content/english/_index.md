@@ -10,7 +10,7 @@ banner:
     
 features:
   - title: My Skills
-    image: /images/service-1.png
+    image: /images/service-1.webp
     content:  I enjoy working with a variety of tools and technologies. Here are some of the skills I've developed.
     bulletpoints:
       - "**Programming Languages:** Python, C, Dart, Go"
@@ -22,7 +22,7 @@ features:
       label: ""
       link: ""
   - title: My Projects
-    image: /images/service-2.png
+    image: /images/service-2.webp
     content: I love building projects to apply my skills and learn new things. Here are some of my favorites.
     bulletpoints:
       - "Project 1: **[PyPilot](https://github.com/raunakwete43/pypilot)** ->
@@ -39,7 +39,7 @@ features:
       link: https://github.com/raunakwete43
 
   - title: What I'm Learning
-    image: /images/service-3.png
+    image: /images/service-3.webp
     content: I'm always eager to expand my knowledge. Here are some areas I'm currently exploring.
     bulletpoints:
       - Transformer architecture
