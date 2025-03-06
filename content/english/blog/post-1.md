@@ -3,7 +3,7 @@ title: "Linear Regression using Gradient Descent Part-1"
 meta_title: "Linear Regression"
 description: "Blog about understanding the theory behind Gradient Ddescent how it's used in parameter optimization in Linear Regression."
 date: 2025-03-06T18:29:37+05:30
-image: "/images/gallery/post-1/img1.png"
+image: "/images/blog/post-1/img1.png"
 categories: ["Machine Learning", "Maths"]
 author: "Raunak Wete"
 tags: ["ML", "Linear Regression", "Gradient Descent"]
