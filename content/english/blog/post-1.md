@@ -12,8 +12,7 @@ tags:
   - ML
   - Linear
   - Regression
-  - Gradient
-  - Descent
+  - Gradient Descent
 draft: false
 ---
 
