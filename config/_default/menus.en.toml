@@ -17,7 +17,7 @@ weight = 2
 # weight = 3
 
 [[main]]
-name = "Blog"
+name = "Blogs"
 url = "/blog"
 weight = 3
 
