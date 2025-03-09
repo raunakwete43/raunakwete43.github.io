@@ -1,17 +1,16 @@
 ---
 title: Linear Regression using Gradient Descent Part-1
-meta_title: Linear Regression
+meta_title: Gradient Descent
 description: Blog about understanding the theory behind Gradient Descent how it's used in parameter optimization in Linear Regression.
 date: 2025-03-06T18:29:37+05:30
-image: /images/blog/post-1/img1.webp
+image: /images/blog/post-1/banner.webp
 categories:
   - Machine Learning
   - Maths
 author: Raunak Wete
 tags:
   - ML
-  - Linear
-  - Regression
+  - Linear Regression
   - Gradient Descent
 draft: false
 ---
@@ -149,6 +148,7 @@ where $\epsilon$ is a small threshold value.
 In this blog, we explored **Linear Regression** and its optimization using **Gradient Descent**. We covered the hypothesis function, cost function, gradient descent update rule, and implementation details.
 
 In **Part-2**, we will implement Linear Regression with Gradient Descent using Python and visualize the learning process.
+[Linear Regression using Gradient Descent Part-2](/blog/post-2)
 
 Stay tuned!
 
