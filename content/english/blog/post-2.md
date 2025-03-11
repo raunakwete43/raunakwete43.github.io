@@ -105,13 +105,6 @@ X_train, X_test = X[:900], X[900:]
 y_train, y_test = y_true[:900], y_true[900:]
 ```
 
-### Define Loss
-
-```python
-# Define Loss function
-def loss(y_pred, y_true):
-    return np.mean(y_pred - y_true).item()
-```
 
 ### Initialize the model parameters
 
