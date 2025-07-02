@@ -25,13 +25,15 @@ features:
     image: /images/service-2.webp
     content: I love building projects to apply my skills and learn new things. Here are some of my favorites.
     bulletpoints:
-      - "Project 1: **[PyPilot](https://github.com/raunakwete43/pypilot)** ->
+      - "Project 1: **[Simple-GPT2](https://github.com/raunakwete43/simple-gpt2.git)** ->
+         A simple GPT2 implementation from scratch. "
+      - "Project 2: **[PyPilot](https://github.com/raunakwete43/pypilot)** ->
          A simple pip helper to install pythoon packages. "
-      - "Project 2: **[QuizCrafter](https://github.com/raunakwete43/QuizCrafter)** ->
+      - "Project 3: **[QuizCrafter](https://github.com/raunakwete43/QuizCrafter)** ->
          Turn PDF's into a MCQ quiz for tests. "
-      - "Project 3: **[Interpretor in Python](https://github.com/raunakwete43/Simple_Interpreter_in_Python)** ->
+      - "Project 4: **[Interpretor in Python](https://github.com/raunakwete43/Simple_Interpreter_in_Python)** ->
          A simple language interpreter made in python inspired from Lox (Crafting Interpreters)."   
-      - "Project 4: **[DeepGo](https://github.com/raunakwete43/deepgo)** ->
+      - "Project 5: **[DeepGo](https://github.com/raunakwete43/deepgo)** ->
          A machine learning and deep learning library in Golang(in Progress). "      
     button:
       enable: true
